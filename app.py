@@ -1178,7 +1178,7 @@ st.markdown("---")
 st.markdown(
     '<div class="footer">'
     'AgriVanta AI | Sri Lankan Food Price Intelligence<br>'
-    'Academic Machine Learning Project | Data Source: World Bank'
+    'Data Source: World Bank'
     '</div>',
     unsafe_allow_html=True
 )
