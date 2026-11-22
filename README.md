@@ -228,7 +228,7 @@ Dataset licence: Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 ChatGPT, developed by OpenAI, was used as a supporting tool during the development of this project. It assisted with Python code development, debugging, machine learning explanations, model evaluation guidance, and Streamlit dashboard design.
 
-All generated suggestions and code were reviewed, adapted and tested as part of the project development process. Responsibility for the project implementation, analysis, interpretation and reported results remains with the project author.
+All generated suggestions and code were reviewed, adapted and tested as part of the project development process. 
 
 ## 11. Author
 
